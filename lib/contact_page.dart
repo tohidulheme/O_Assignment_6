@@ -124,4 +124,4 @@ class _ContactListScreenState extends State<ContactListScreen> {
       ),
     );
   }
-}
+} // here the full code
