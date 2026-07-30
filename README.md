@@ -1,4 +1,4 @@
-# assignment_6 accc
+# assignment_6 accepted
 
 A new Flutter project.
 
